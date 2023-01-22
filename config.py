@@ -6,15 +6,15 @@ admins = {}
 load_dotenv()
 
 # client vars
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
-BOT_TOKEN = getenv("BOT_TOKEN")
-SESSION_NAME = getenv("SESSION_NAME", "session")
+API_ID = int(getenv("27589257"))
+API_HASH = getenv("0af78b04b48361bc117fa4e06d6d2292")
+BOT_TOKEN = getenv("1739231223:AAGBcJ3vgHOW_0vvVnoYB61zNgz9hx9vWn0")
+SESSION_NAME = getenv("SESSION_NAME", "BQBWyDVGYIFakF-R0UBhvhfd3cIHP6DuhsacsgrZXtcW6-BLyJTJWYLDOrZeJ2_dkZiwYOg0Q-I4O6K3A-EskeePXqI6xRIICum8bojB_hBlbxlZ7jgqysG6tJiPUg_jymC4aULXN6uiZTjSOIwzFyZ52xzuRfrWVjY7v1uoHgEl9vb7GEDg631LphGHNHU0mnFhef4IwzdF7E4b27R9TcnAiKyMklS05d4eHjpMDJ1JgyMXK7DINUKQDSpWejQ0Am_Iy06ON8PlwDgsE-Y9AjehyvbafjtyFLYe-N-RxmQzxvMNTUsFSxk873T43uxeqAdS5asN8gvnbt1B0xTV0HL6AAAAAVqdMQcA")
 
 # mandatory vars
-OWNER_USERNAME = getenv("OWNER_USERNAME")
-ALIVE_NAME = getenv("ALIVE_NAME")
-BOT_USERNAME = getenv("BOT_USERNAME")
+OWNER_USERNAME = getenv("drxew")
+ALIVE_NAME = getenv("umban")
+BOT_USERNAME = getenv("amiciarobot")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Official-Afk-xD/BLAZE-MUSIC")
 UPSTREAM_BRANCH = getenv("UPSTREM_BRANCH", "main")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "900"))
