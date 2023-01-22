@@ -52,7 +52,7 @@ Read the [Docs](https://levina.gitbook.io/videostreambot/deployment/requirements
 > Checkout the [Docs](https://levina.gitbook.io/videostreambot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deployment
 
 ```console
-root@linux~ $ git clone https://github.com/Official-Afk-xD/BLAZE-MUSIC
+root@linux~ $ git clone https://github.com/LucidoXD/BLAZE-MUSIC
 root@linux~ $ cd video-stream
 root@linux~ $ pip3 install -U -r requirements.txt
 root@linux~ $ cp example.env .env
